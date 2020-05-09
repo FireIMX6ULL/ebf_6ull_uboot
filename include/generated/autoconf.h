@@ -32,7 +32,7 @@
 #define CONFIG_HAVE_GENERIC_BOARD 1
 #define CONFIG_DISK 1
 #define CONFIG_CMD_EXPORTENV 1
-#define CONFIG_SYS_EXTRA_OPTIONS "IMX_CONFIG=board/freescale/mx6ullevk/imximage.cfg,SYS_BOOT_NAND"
+#define CONFIG_SYS_EXTRA_OPTIONS "IMX_CONFIG=board/freescale/mx6ullevk/imximage.cfg"
 #define CONFIG_CMD_CRC32 1
 #define CONFIG_ROM_UNIFIED_SECTIONS 1
 #define CONFIG_SYS_BOARD "mx6ullevk"
